@@ -15,6 +15,7 @@
 | **Model Parameters** | `Logistic Regression + StandardScaler; L2, C=1.0, lbfgs, max_iter=1000, random_state=42.` |
 | **MLOps Evaluation Metrics** | Accuracy: 91.33%, Precision: 92.33%, Recall: 94.26%, F1-Score: 93.28%, ROC-AUC: 0.9740 |
 | **DevSecOps Security Controls** | Role-Based Access Control (RBAC), Bandit SAST scanner, SHA-256 model signing, Continuous Cohort Data Drift Monitoring |
+| **GitHub Repository** | [https://github.com/jairajcj/student-academic-performance-devsecmlops](https://github.com/jairajcj/student-academic-performance-devsecmlops) |
 
 ---
 
